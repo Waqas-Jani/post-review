@@ -1,0 +1,1353 @@
+{
+    "response": {
+        "payments": [
+            {
+                "type_expense_id": 1,
+                "expense_type": "Administration",
+                "supplier": {
+                    "supplier_id": 12,
+                    "idEstatus": 67,
+                    "rfc": "TPT890516JP5",
+                    "razonSocial": "TOTAL PLAY COMUNICACIONES SA DE CV",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7705,
+                "account_id": 2,
+                "invoice": 0,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 100.0000,
+                "date": "2020-09-08T16:43:07.103",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 34234,
+                "comments": [
+                    {
+                        "comment": "pago de julio 2",
+                        "payment_status_id": 22,
+                        "date": "2021-04-28T10:10:13.237"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 55,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 1,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_b60c9695-f77f-49e6-b9f9-05f0e27913ec_141219141216851.png",
+                        "file_name": "22_c3a1ab0e-9092-4c1e-b268-5e1e1f18b748_281021281035737.png",
+                        "original_name": "imagen.temporal1.png",
+                        "size": 8192,
+                        "extension": "PNG  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 7,
+                "expense_type": "Maintenances",
+                "supplier": {
+                    "supplier_id": 14,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101004",
+                    "razonSocial": "SOLUCIONES METALICA  DE MONTERREY SA DE CV",
+                    "correo": "HUGOCANALES@GREENPARK.COM.MX"
+                },
+                "payment_id": 7706,
+                "account_id": 2,
+                "invoice": 3625,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 4784.0000,
+                "date": "2020-09-08T16:44:28.237",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 3,
+                "comments": [
+                    {
+                        "comment": "ANT DE COMPRA DE 2 BANCAS EN AREA DE CANCHE AVE DE LAS FLORES",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T16:44:28.237"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_af039769-51c5-4c6e-b578-b6034583b9b9_08442084428517.gif",
+                        "file_name": "22_af039769-51c5-4c6e-b578-b6034583b9b9_08442084428517.gif",
+                        "original_name": "ant de bancas mision de santa.GIF",
+                        "size": 31719,
+                        "extension": "GIF  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_e8231a04-c043-4393-b0b2-b4e4766902a2_08442084428564.jpg",
+                        "file_name": "22_e8231a04-c043-4393-b0b2-b4e4766902a2_08442084428564.jpg",
+                        "original_name": "RECIBO MISION SANTA CATARINA.jpg",
+                        "size": 3653335,
+                        "extension": "JPG  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_ea350d0a-87b4-43bf-83f9-3000aa7d2e65_08442084428786.pdf",
+                        "file_name": "22_ea350d0a-87b4-43bf-83f9-3000aa7d2e65_08442084428786.pdf",
+                        "original_name": "email de costo sin factura ant.pdf",
+                        "size": 313001,
+                        "extension": "PDF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 7,
+                "expense_type": "Maintenances",
+                "supplier": {
+                    "supplier_id": 15,
+                    "idEstatus": 67,
+                    "rfc": "POS9204012T2",
+                    "razonSocial": "PINTURAS OSEL SA DE CV",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7707,
+                "account_id": 2,
+                "invoice": 3626,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 3529.9800,
+                "date": "2020-09-08T16:47:54.113",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 2,
+                "comments": [
+                    {
+                        "comment": "COMPRA DE PINTURA PARA SEC 4 REMBOLSO ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T16:47:54.113"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_553399ea-475e-4bab-a631-061dabe25909_08472084754426.pdf",
+                        "file_name": "22_553399ea-475e-4bab-a631-061dabe25909_08472084754426.pdf",
+                        "original_name": "CU000000000005063.pdf",
+                        "size": 202338,
+                        "extension": "PDF  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_94a59e97-42cc-492a-aa54-5cf7230cd434_08472084754473.pdf",
+                        "file_name": "22_94a59e97-42cc-492a-aa54-5cf7230cd434_08472084754473.pdf",
+                        "original_name": "generarComprobanteMismoBanco.pdf",
+                        "size": 11906,
+                        "extension": "PDF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 1,
+                "expense_type": "Administration",
+                "supplier": {
+                    "supplier_id": 1,
+                    "idEstatus": 67,
+                    "rfc": "BSM970519DU8",
+                    "razonSocial": "BANCO SANTANDER ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7708,
+                "account_id": 2,
+                "invoice": 3627,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 603.2000,
+                "date": "2020-09-08T16:49:45.723",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "COBRO DE COMSION DE BANCOS ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T16:49:45.723"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_73102c2e-1a4b-4a7d-b429-d573785e478e_0849208494620.gif",
+                        "file_name": "22_73102c2e-1a4b-4a7d-b429-d573785e478e_0849208494620.gif",
+                        "original_name": "COMISION BANCARIA.GIF",
+                        "size": 5321,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 4,
+                "expense_type": "Gardening",
+                "supplier": {
+                    "supplier_id": 2,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101000",
+                    "razonSocial": "AURELIO EL JARDINERO ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7709,
+                "account_id": 2,
+                "invoice": 3628,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 2800.0000,
+                "date": "2020-09-08T16:51:26.343",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 12,
+                "comments": [
+                    {
+                        "comment": "pago aurelio jardinero sec 3 ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T16:51:26.343"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_b0aea17c-74e9-46cc-ade8-2e0459648016_08512085126623.gif",
+                        "file_name": "22_b0aea17c-74e9-46cc-ade8-2e0459648016_08512085126623.gif",
+                        "original_name": "pago jardinero sec 3.GIF",
+                        "size": 29128,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 1,
+                "expense_type": "Administration",
+                "supplier": {
+                    "supplier_id": 1,
+                    "idEstatus": 67,
+                    "rfc": "BSM970519DU8",
+                    "razonSocial": "BANCO SANTANDER ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7710,
+                "account_id": 2,
+                "invoice": 3629,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 603.2000,
+                "date": "2020-09-08T16:52:45.737",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "comsion banco santander ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T16:52:45.737"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_54d20fde-c53a-4dca-b018-91b5473b6df0_0852208524637.gif",
+                        "file_name": "22_54d20fde-c53a-4dca-b018-91b5473b6df0_0852208524637.gif",
+                        "original_name": "comsion banco.GIF",
+                        "size": 4469,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 7,
+                "expense_type": "Maintenances",
+                "supplier": {
+                    "supplier_id": 16,
+                    "idEstatus": 67,
+                    "rfc": "GOBC850506QU9",
+                    "razonSocial": "CESAR ALEJANDRO GONZALEZ BERRONES",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7711,
+                "account_id": 2,
+                "invoice": 3630,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 2784.0000,
+                "date": "2020-09-08T16:55:50.023",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 2,
+                "comments": [
+                    {
+                        "comment": "REACION DE PLUMA POR DAÑO SE REMBOLSARA POR EL VECINO QUE LO DAÑO ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T16:55:50.023"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_4f64ea3a-83cd-466e-8029-1525ef062de7_08552085550309.pdf",
+                        "file_name": "22_4f64ea3a-83cd-466e-8029-1525ef062de7_08552085550309.pdf",
+                        "original_name": "241eb1f9-f3d9-4409-9608-c46a90058166.pdf",
+                        "size": 27850,
+                        "extension": "PDF  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_a9963453-60d3-439b-9312-ee35dbbd90a3_08552085550340.gif",
+                        "file_name": "22_a9963453-60d3-439b-9312-ee35dbbd90a3_08552085550340.gif",
+                        "original_name": "Captura.GIF",
+                        "size": 28829,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 9,
+                "expense_type": "Maintenance common areas",
+                "supplier": {
+                    "supplier_id": 2,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101000",
+                    "razonSocial": "AURELIO EL JARDINERO ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7715,
+                "account_id": 2,
+                "invoice": 3634,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 2300.0000,
+                "date": "2020-09-08T16:56:56.25",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 3,
+                "comments": [
+                    {
+                        "comment": "ZESPED PARA ENTRADA ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T16:56:56.25"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_7158f8ec-c8fc-44c3-8380-d9273cfd4c8f_08562085656521.gif",
+                        "file_name": "22_7158f8ec-c8fc-44c3-8380-d9273cfd4c8f_08562085656521.gif",
+                        "original_name": "zesped compra.GIF",
+                        "size": 28332,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 1,
+                "expense_type": "Administration",
+                "supplier": {
+                    "supplier_id": 12,
+                    "idEstatus": 67,
+                    "rfc": "TPT890516JP5",
+                    "razonSocial": "TOTAL PLAY COMUNICACIONES SA DE CV",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7716,
+                "account_id": 2,
+                "invoice": 3635,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 750.0000,
+                "date": "2020-09-08T16:57:47.45",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 4,
+                "comments": [
+                    {
+                        "comment": "PAGO INERNET CASETA ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T16:57:47.45"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_eab613f6-e736-4680-b044-11c4dc299eb7_08572085747624.gif",
+                        "file_name": "22_eab613f6-e736-4680-b044-11c4dc299eb7_08572085747624.gif",
+                        "original_name": "Captura.GIF",
+                        "size": 22178,
+                        "extension": "GIF  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_2bb361b7-a594-4784-9cb6-43efd372ae79_08572085747676.pdf",
+                        "file_name": "22_2bb361b7-a594-4784-9cb6-43efd372ae79_08572085747676.pdf",
+                        "original_name": "Factura--B1-134098235P1.pdf",
+                        "size": 401573,
+                        "extension": "PDF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 6,
+                "expense_type": "Vigilance and security",
+                "supplier": {
+                    "supplier_id": 3,
+                    "idEstatus": 67,
+                    "rfc": "GRS1702174G5",
+                    "razonSocial": "GRUPO RAGO SOLUCIONES EN SERVICIOS EMPRESARIALES S",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7717,
+                "account_id": 2,
+                "invoice": 3636,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 1938.0000,
+                "date": "2020-09-08T16:58:45.897",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 2,
+                "comments": [
+                    {
+                        "comment": "PAGO RECIBO RAGO RONDINES",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T16:58:45.897"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_369215d8-bf92-49c2-b096-ac84eb84e615_08582085846192.pdf",
+                        "file_name": "22_369215d8-bf92-49c2-b096-ac84eb84e615_08582085846192.pdf",
+                        "original_name": "144.pdf",
+                        "size": 173148,
+                        "extension": "PDF  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_a52aae4e-a41e-466d-b955-00d7ab5f7e27_08582085846239.gif",
+                        "file_name": "22_a52aae4e-a41e-466d-b955-00d7ab5f7e27_08582085846239.gif",
+                        "original_name": "pago recibo rago.GIF",
+                        "size": 31029,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 9,
+                "expense_type": "Maintenance common areas",
+                "supplier": {
+                    "supplier_id": 2,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101000",
+                    "razonSocial": "AURELIO EL JARDINERO ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7718,
+                "account_id": 2,
+                "invoice": 3637,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 2800.0000,
+                "date": "2020-09-08T16:59:40.94",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 6,
+                "comments": [
+                    {
+                        "comment": "PAGO JARDINERIA SEC 4",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T16:59:40.94"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_5f10dc67-bd33-4efc-81b7-43f6a1fbf3b0_08592085941195.gif",
+                        "file_name": "22_5f10dc67-bd33-4efc-81b7-43f6a1fbf3b0_08592085941195.gif",
+                        "original_name": "pago jardinero sec 4.GIF",
+                        "size": 30752,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 1,
+                "expense_type": "Administration",
+                "supplier": {
+                    "supplier_id": 5,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101003",
+                    "razonSocial": "ISRAEL ROMERO HERNANDEZ CONTADOR ",
+                    "correo": "IRHCONTA@GMAIL.COM"
+                },
+                "payment_id": 7719,
+                "account_id": 2,
+                "invoice": 3638,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 1500.0000,
+                "date": "2020-09-08T17:01:13.567",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 7,
+                "comments": [
+                    {
+                        "comment": "PAGO CONTA ISREL IMPUESTO DE JULIO",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T17:01:13.567"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_f2cf02d7-cf06-4adf-a44a-e250099390e2_0801208113868.gif",
+                        "file_name": "22_f2cf02d7-cf06-4adf-a44a-e250099390e2_0801208113868.gif",
+                        "original_name": "pago conta isra.GIF",
+                        "size": 27336,
+                        "extension": "GIF  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_8a934e23-a4f8-490e-84c1-677f23c91709_0801208113884.pdf",
+                        "file_name": "22_8a934e23-a4f8-490e-84c1-677f23c91709_0801208113884.pdf",
+                        "original_name": "7. AVS SAT JUL2020 acuse.pdf",
+                        "size": 62597,
+                        "extension": "PDF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 6,
+                "expense_type": "Vigilance and security",
+                "supplier": {
+                    "supplier_id": 3,
+                    "idEstatus": 67,
+                    "rfc": "GRS1702174G5",
+                    "razonSocial": "GRUPO RAGO SOLUCIONES EN SERVICIOS EMPRESARIALES S",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7720,
+                "account_id": 2,
+                "invoice": 3639,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 60477.4700,
+                "date": "2020-09-08T17:02:11.557",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 8,
+                "comments": [
+                    {
+                        "comment": "PAGO DE VIGILANCIA DE AGTO ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T17:02:11.557"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_bfd128b6-d8d8-4848-9331-1bac4449d0cd_0802208211838.pdf",
+                        "file_name": "22_bfd128b6-d8d8-4848-9331-1bac4449d0cd_0802208211838.pdf",
+                        "original_name": "GRS1702174G5FF118.pdf",
+                        "size": 63285,
+                        "extension": "PDF  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_39d5033c-628e-4d51-bc7a-0ed93f54a2fb_0802208211885.gif",
+                        "file_name": "22_39d5033c-628e-4d51-bc7a-0ed93f54a2fb_0802208211885.gif",
+                        "original_name": "pago rago.GIF",
+                        "size": 32651,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 7,
+                "expense_type": "Maintenances",
+                "supplier": {
+                    "supplier_id": 2,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101000",
+                    "razonSocial": "AURELIO EL JARDINERO ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7721,
+                "account_id": 2,
+                "invoice": 3640,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 700.0000,
+                "date": "2020-09-08T17:03:14.28",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 9,
+                "comments": [
+                    {
+                        "comment": "REALIZACION DE ZANJA EN HIGUES POR ANGEL ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T17:03:14.28"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_db468f63-e112-4279-99e3-e8fa1a06cb10_0803208314592.gif",
+                        "file_name": "22_db468f63-e112-4279-99e3-e8fa1a06cb10_0803208314592.gif",
+                        "original_name": "pago angel zanja en higuieras.GIF",
+                        "size": 28310,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 9,
+                "expense_type": "Maintenance common areas",
+                "supplier": {
+                    "supplier_id": 2,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101000",
+                    "razonSocial": "AURELIO EL JARDINERO ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7722,
+                "account_id": 2,
+                "invoice": 3641,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 2350.0000,
+                "date": "2020-09-08T17:04:37.73",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 10,
+                "comments": [
+                    {
+                        "comment": "COMPRA DE ZESPED PARA AREA DE AVE DE LAS FLORES SEC 3",
+                        "payment_status_id": 22,
+                        "date": "2020-09-08T17:04:37.73"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_22e85c57-76bf-4299-bb38-b4e32ced69b8_0804208437863.gif",
+                        "file_name": "22_22e85c57-76bf-4299-bb38-b4e32ced69b8_0804208437863.gif",
+                        "original_name": "zespes cancha.GIF",
+                        "size": 29215,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 4,
+                "expense_type": "Gardening",
+                "supplier": {
+                    "supplier_id": 2,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101000",
+                    "razonSocial": "AURELIO EL JARDINERO ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7856,
+                "account_id": 2,
+                "invoice": 3748,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 2800.0000,
+                "date": "2020-09-21T15:15:03.963",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "pago de jardineria sec 4",
+                        "payment_status_id": 22,
+                        "date": "2020-09-21T15:15:03.963"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_444273fc-baf8-4bfc-8dd3-9d61aacf991a_21152021154398.gif",
+                        "file_name": "22_444273fc-baf8-4bfc-8dd3-9d61aacf991a_21152021154398.gif",
+                        "original_name": "pago jarduneri sec 4.GIF",
+                        "size": 29713,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 7,
+                "expense_type": "Maintenances",
+                "supplier": {
+                    "supplier_id": 2,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101000",
+                    "razonSocial": "AURELIO EL JARDINERO ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7857,
+                "account_id": 2,
+                "invoice": 3749,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 400.0000,
+                "date": "2020-09-21T15:17:54.77",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "pintada en area de tackoma de lineas amarillas ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-21T15:17:54.77"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_89e11c41-5141-4509-b42e-7d569cd2483a_21172021175569.gif",
+                        "file_name": "22_89e11c41-5141-4509-b42e-7d569cd2483a_21172021175569.gif",
+                        "original_name": "pago aurelio pintalo lineas sec 4.GIF",
+                        "size": 3844,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 1,
+                "expense_type": "Administration",
+                "supplier": {
+                    "supplier_id": 1,
+                    "idEstatus": 67,
+                    "rfc": "BSM970519DU8",
+                    "razonSocial": "BANCO SANTANDER ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7859,
+                "account_id": 2,
+                "invoice": 3751,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 603.2000,
+                "date": "2020-09-21T15:22:29.82",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "cob de comision snatander ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-21T15:22:29.82"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_4aa1b4cb-0ab6-4633-88eb-9a6e64e13e14_212220212230136.gif",
+                        "file_name": "22_4aa1b4cb-0ab6-4633-88eb-9a6e64e13e14_212220212230136.gif",
+                        "original_name": "comision santander.GIF",
+                        "size": 5182,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 4,
+                "expense_type": "Gardening",
+                "supplier": {
+                    "supplier_id": 2,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101000",
+                    "razonSocial": "AURELIO EL JARDINERO ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7860,
+                "account_id": 2,
+                "invoice": 3752,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 2300.0000,
+                "date": "2020-09-21T15:23:18.157",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "compra de zesped sec 3",
+                        "payment_status_id": 22,
+                        "date": "2020-09-21T15:23:18.157"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_c109df98-3dfb-4c1c-89e8-e5b326eb3d29_212320212318463.gif",
+                        "file_name": "22_c109df98-3dfb-4c1c-89e8-e5b326eb3d29_212320212318463.gif",
+                        "original_name": "COMPA DE ZESPED.GIF",
+                        "size": 28201,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 7,
+                "expense_type": "Maintenances",
+                "supplier": {
+                    "supplier_id": 2,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101000",
+                    "razonSocial": "AURELIO EL JARDINERO ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7861,
+                "account_id": 2,
+                "invoice": 3753,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 760.0000,
+                "date": "2020-09-21T15:25:04.007",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "repacion de malla con albañil , rembolso.",
+                        "payment_status_id": 22,
+                        "date": "2020-09-21T15:25:04.007"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_af138661-fc75-4440-a92f-c916eb028081_21252021254311.pdf",
+                        "file_name": "22_af138661-fc75-4440-a92f-c916eb028081_21252021254311.pdf",
+                        "original_name": "generarComprobanteMismoBanco.pdf",
+                        "size": 11908,
+                        "extension": "PDF  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_9f0b9efb-7acf-4cf4-ab16-6c8a62a41aa9_21252021254342.gif",
+                        "file_name": "22_9f0b9efb-7acf-4cf4-ab16-6c8a62a41aa9_21252021254342.gif",
+                        "original_name": "REMBOLSO REPA DE MALLA MATE Y MO ALBAÑIL.GIF",
+                        "size": 29586,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 1,
+                "expense_type": "Administration",
+                "supplier": {
+                    "supplier_id": 12,
+                    "idEstatus": 67,
+                    "rfc": "TPT890516JP5",
+                    "razonSocial": "TOTAL PLAY COMUNICACIONES SA DE CV",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7862,
+                "account_id": 2,
+                "invoice": 3754,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 750.0000,
+                "date": "2020-09-21T15:26:10.93",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "pago de telefonia e internet en caseta ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-21T15:26:10.93"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_fe664e10-fb57-44ce-bf4a-51d407e14f46_21262021261125.pdf",
+                        "file_name": "22_fe664e10-fb57-44ce-bf4a-51d407e14f46_21262021261125.pdf",
+                        "original_name": "Factura--B1-132078147P1.pdf",
+                        "size": 402656,
+                        "extension": "PDF  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_882eeb2d-5431-49e5-ad30-a6ac6c42961e_212620212611118.pdf",
+                        "file_name": "22_882eeb2d-5431-49e5-ad30-a6ac6c42961e_212620212611118.pdf",
+                        "original_name": "obtenerComprobante.pdf",
+                        "size": 11539,
+                        "extension": "PDF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 7,
+                "expense_type": "Maintenances",
+                "supplier": {
+                    "supplier_id": 17,
+                    "idEstatus": 67,
+                    "rfc": "SOGF850612UD4",
+                    "razonSocial": "FELIPE DE JESUS SOLIS GARCIA",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7863,
+                "account_id": 2,
+                "invoice": 3755,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 1450.0000,
+                "date": "2020-09-21T15:33:00.417",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "REPACAION DE BOTTO DE ACCESO DE CSETA ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-21T15:33:00.417"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_5934bc8b-61f8-4a06-b79e-216951b9e630_21332021330717.pdf",
+                        "file_name": "22_5934bc8b-61f8-4a06-b79e-216951b9e630_21332021330717.pdf",
+                        "original_name": "NOTA DE REMISION-MISION3Y4SEC-BOTONDE SEGURIDAD.pdf",
+                        "size": 128236,
+                        "extension": "PDF  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_a6b0a789-3929-4b7a-a4a8-979c28b6be33_21332021330765.gif",
+                        "file_name": "22_a6b0a789-3929-4b7a-a4a8-979c28b6be33_21332021330765.gif",
+                        "original_name": "rep de boton y cableado acceso.GIF",
+                        "size": 49301,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 6,
+                "expense_type": "Vigilance and security",
+                "supplier": {
+                    "supplier_id": 3,
+                    "idEstatus": 67,
+                    "rfc": "GRS1702174G5",
+                    "razonSocial": "GRUPO RAGO SOLUCIONES EN SERVICIOS EMPRESARIALES S",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7864,
+                "account_id": 2,
+                "invoice": 3756,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 1938.0000,
+                "date": "2020-09-21T15:34:05.097",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "PAGO DE GASOLINA PARA RONDINES",
+                        "payment_status_id": 22,
+                        "date": "2020-09-21T15:34:05.097"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_0bcb2744-a9f0-4949-a819-c5271a2ae145_21342021345383.gif",
+                        "file_name": "22_0bcb2744-a9f0-4949-a819-c5271a2ae145_21342021345383.gif",
+                        "original_name": "pago de recibo rago.GIF",
+                        "size": 32448,
+                        "extension": "GIF  "
+                    },
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_8d3e919d-0495-4f82-a976-f3327448673e_21342021345415.pdf",
+                        "file_name": "22_8d3e919d-0495-4f82-a976-f3327448673e_21342021345415.pdf",
+                        "original_name": "RECIBO DE GASOLINA JULIO.pdf",
+                        "size": 99484,
+                        "extension": "PDF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 4,
+                "expense_type": "Gardening",
+                "supplier": {
+                    "supplier_id": 2,
+                    "idEstatus": 67,
+                    "rfc": "XEX010101000",
+                    "razonSocial": "AURELIO EL JARDINERO ",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7865,
+                "account_id": 2,
+                "invoice": 3757,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 2800.0000,
+                "date": "2020-09-21T15:34:43.313",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "JARDINERO SEC 4",
+                        "payment_status_id": 22,
+                        "date": "2020-09-21T15:34:43.313"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_e48119e7-afb2-4d7b-befb-c560ab6efb41_213420213443597.gif",
+                        "file_name": "22_e48119e7-afb2-4d7b-befb-c560ab6efb41_213420213443597.gif",
+                        "original_name": "pago jardinero sec 4.GIF",
+                        "size": 31192,
+                        "extension": "GIF  "
+                    }
+                ]
+            },
+            {
+                "type_expense_id": 1,
+                "expense_type": "Administration",
+                "supplier": {
+                    "supplier_id": 17,
+                    "idEstatus": 67,
+                    "rfc": "SOGF850612UD4",
+                    "razonSocial": "FELIPE DE JESUS SOLIS GARCIA",
+                    "correo": "TESOREROMISION3@GMAIL.COM"
+                },
+                "payment_id": 7866,
+                "account_id": 2,
+                "invoice": 3758,
+                "status_id": 22,
+                "status": "El pago ha sido autorizado por la mesa directiva",
+                "amount": 4500.0000,
+                "date": "2020-09-21T15:35:43.16",
+                "email": null,
+                "account": {
+                    "alias": "PAGO MANTENIMIENTO MSC SEC 3",
+                    "titular_name": "ASOCIACION DE VECINOS SANTA CATARINA MISION 3 AC",
+                    "cash_account": false,
+                    "last_digits_account": "9390"
+                },
+                "payment_method": "Transfer",
+                "transaction_number": 1,
+                "comments": [
+                    {
+                        "comment": "compra de tarejats de acceso ",
+                        "payment_status_id": 22,
+                        "date": "2020-09-21T15:35:43.16"
+                    }
+                ],
+                "evidences": [
+                    {
+                        "file_id": 0,
+                        "status_file_id": 23,
+                        "file_type_id": 10,
+                        "file_type": "EvidenciaPagoEgreso",
+                        "creator_user_id": 315,
+                        "url": "https://privadatransparente.blob.core.windows.net/evidencias/22_ae8091c6-69d6-446a-b895-3fb961eadf73_213520213543456.gif",
+                        "file_name": "22_ae8091c6-69d6-446a-b895-3fb961eadf73_213520213543456.gif",
+                        "original_name": "cimpra tarjetas felipe.GIF",
+                        "size": 31101,
+                        "extension": "GIF  "
+                    }
+                ]
+            }
+        ]
+    },
+    "success": true,
+    "code": 200,
+    "message": ""
+}

@@ -1,0 +1,2 @@
+export const SAVE_PROBLEM = "SAVE_PROBLEM";
+export const CHANGE_STATUS = "CHANGE_STATUS";
